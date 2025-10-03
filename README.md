@@ -33,7 +33,7 @@ The aim of this project is to explore and prototype workflows for **recognizing 
 
 ## Acknowledgements
 
--We built parts of our pipeline using the HTRflow ecosystem developed by the AI lab at the Swedish National Archives (Riksarkivet). In particular, we leveraged htrflow_app for Handwritten Text Recognition.
+We built parts of our pipeline using the HTRflow ecosystem developed by the AI lab at the Swedish National Archives (Riksarkivet). In particular, we leveraged htrflow_app for Handwritten Text Recognition.
 
 ## License
 
